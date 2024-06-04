@@ -30,4 +30,5 @@ python -u evals_with_ret.py --adapter_path your_results_path/checkpoint-9.pth --
 ```
 
 
-
+###
+This repo benefits from LLaMA and  [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter/tree/main). Thanks for their wonderful works.
